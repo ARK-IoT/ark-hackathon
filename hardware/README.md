@@ -136,16 +136,11 @@
 
 #
 
-[**Micro servo**](https://www.adafruit.com/product/169)  
-<img src="https://cdn-shop.adafruit.com/310x233/169-06.jpg" width="350"> 
-
-#
-
 [**Lithium Ion Battery - 3.7v 2000mAh**](https://www.adafruit.com/product/2011)  
 <img src="https://cdn-shop.adafruit.com/310x233/2011-03.jpg" width="350"> 
 
 #
 
-Also will include various LEDs, Breadboards, Switches, Resistors, and Potentiometers.
+Also will include Breadboards, Switches, Resistors, and Potentiometers.
 
 -----
