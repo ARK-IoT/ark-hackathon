@@ -11,10 +11,38 @@
 [**Raspberry Pi Zero W**](https://www.adafruit.com/product/3400)  
 <img src="https://cdn-shop.adafruit.com/310x233/3400-05.jpg" width="350">  
 
- - [***raspberrypi.org***](https://www.raspberrypi.org/) 
- 
- 
- - [Ark-IoT Core Image](https://github.com/Ark-IoT/ark-iot-core-image)
+specs
+- 1GHz, single-core CPU
+- 512MB RAM
+- 802.11 b/g/n wireless LAN
+- Bluetooth 4.1
+- Bluetooth Low Energy (BLE)
+- Mini HDMI and USB On-The-Go ports
+- Micro USB power
+- HAT-compatible 40-pin header
+- Composite video and reset headers
+- CSI camera connector
+
+| pinout |
+| :---: |
+| [pinout.xyz](https://pinout.xyz/pinout) |
+| <img src="https://raw.githubusercontent.com/ignitedPotato/node-red-contrib-pi-blaster/master/pinout.xyz.png" width="350"> |
+
+| guides |
+| :---: |
+| [Adafruit: Raspberry Pi Zero Creation](https://learn.adafruit.com/raspberry-pi-zero-creation) |
+| [Raspberry Pi Hardware Guide](https://www.raspberrypi.org/learning/hardware-guide/) |
+
+| images |
+| :---: |
+| [Ark-IoT Core Image](https://github.com/Ark-IoT/ark-iot-core-image) |
+| [Raspbian Stretch Lite](https://www.raspberrypi.org/downloads/raspbian/) |
+
+| libraries |
+| :---: |
+| [Node-RPIO](https://github.com/jperkin/node-rpio) |
+| [WiringPi](https://github.com/WiringPi/WiringPi) |
+
 
 #
 
