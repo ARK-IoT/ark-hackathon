@@ -28,20 +28,20 @@ specs
 | [pinout.xyz](https://pinout.xyz/pinout) |
 | <img src="https://raw.githubusercontent.com/ignitedPotato/node-red-contrib-pi-blaster/master/pinout.xyz.png" width="350"> |
 
-| guides |
-| :---: |
-| [Adafruit: Raspberry Pi Zero Creation](https://learn.adafruit.com/raspberry-pi-zero-creation) |
-| [Raspberry Pi Hardware Guide](https://www.raspberrypi.org/learning/hardware-guide/) |
 
-| images |
-| :---: |
-| [Ark-IoT Core Image](https://github.com/Ark-IoT/ark-iot-core-image) |
-| [Raspbian Stretch Lite](https://www.raspberrypi.org/downloads/raspbian/) |
+|  guides  | 
+| :------: |
+|<table> <tr><th>resource</th><th>url</th></tr><tr><td>**Adafruit: Raspberry Pi Zero Creation**</td><td>https://learn.adafruit.com/raspberry-pi-zero-creation</td></tr> <tr><td>**Raspberry Pi Hardware Guide**</td><td>https://www.raspberrypi.org/learning/hardware-guide/</td></tr> </table> |
 
-| libraries |
-| :---: |
-| [Node-RPIO](https://github.com/jperkin/node-rpio) |
-| [WiringPi](https://github.com/WiringPi/WiringPi) |
+
+|  images  | 
+| :------: |
+|<table> <tr><th>name</th><th>url</th></tr><tr><td>**Ark-IoT Core Image**</td><td>https://github.com/Ark-IoT/ark-iot-core-image</td></tr> <tr><td>**Raspbian Stretch Lite**</td><td>https://www.raspberrypi.org/downloads/raspbian/</td></tr> </table> |
+
+
+|  libraries  | 
+| :---------: |
+|<table> <tr><th>os</th><th>url</th></tr><tr><td>**Node-RPIO**</td><td>https://github.com/jperkin/node-rpio</td></tr> <tr><td>**WiringPi**</td><td>https://github.com/WiringPi/WiringPi</td></tr> </table> |
 
 
 #
@@ -50,10 +50,34 @@ specs
 <img src="https://cdn-shop.adafruit.com/310x233/2821-08.jpg" width="350">  
 
 
+|  X  | 
+| :-: |
+|<table><tr><th> X </th><th> X </th></tr><tr><td>**X**</td><td> X </td></tr> <tr><td>**X**</td><td> X </td></tr> </table> |
+
+|  X  | 
+| :-: |
+|<table><tr><th> X </th><th> X </th></tr><tr><td>**X**</td><td> X </td></tr> <tr><td>**X**</td><td> X </td></tr> </table> |
+
+|  X  | 
+| :-: |
+|<table><tr><th> X </th><th> X </th></tr><tr><td>**X**</td><td> X </td></tr> <tr><td>**X**</td><td> X </td></tr> </table> |
+
 #
 
 [**Adafruit HUZZAH32 Feather**](https://www.adafruit.com/product/3405)  
 <img src="https://cdn-shop.adafruit.com/310x233/3405-07.jpg" width="350"> 
+
+|  X  | 
+| :-: |
+|<table><tr><th> X </th><th> X </th></tr><tr><td>**X**</td><td> X </td></tr> <tr><td>**X**</td><td> X </td></tr> </table> |
+
+|  X  | 
+| :-: |
+|<table><tr><th> X </th><th> X </th></tr><tr><td>**X**</td><td> X </td></tr> <tr><td>**X**</td><td> X </td></tr> </table> |
+
+|  X  | 
+| :-: |
+|<table><tr><th> X </th><th> X </th></tr><tr><td>**X**</td><td> X </td></tr> <tr><td>**X**</td><td> X </td></tr> </table> |
 
 
 -----
@@ -63,11 +87,35 @@ specs
 [**Pixy CMUcam5 Sensor**](https://www.adafruit.com/product/1906)  
 <img src="https://cdn-shop.adafruit.com/310x233/1906-03.jpg" width="350"> 
 
+|  X  | 
+| :-: |
+|<table><tr><th> X </th><th> X </th></tr><tr><td>**X**</td><td> X </td></tr> <tr><td>**X**</td><td> X </td></tr> </table> |
+
+|  X  | 
+| :-: |
+|<table><tr><th> X </th><th> X </th></tr><tr><td>**X**</td><td> X </td></tr> <tr><td>**X**</td><td> X </td></tr> </table> |
+
+|  X  | 
+| :-: |
+|<table><tr><th> X </th><th> X </th></tr><tr><td>**X**</td><td> X </td></tr> <tr><td>**X**</td><td> X </td></tr> </table> |
+
 
 #
 
 [**PN532 NFC/RFID breakout board**](https://www.adafruit.com/product/364)  
 <img src="https://cdn-shop.adafruit.com/310x233/364-05.jpg" width="350"> 
+
+|  X  | 
+| :-: |
+|<table><tr><th> X </th><th> X </th></tr><tr><td>**X**</td><td> X </td></tr> <tr><td>**X**</td><td> X </td></tr> </table> |
+
+|  X  | 
+| :-: |
+|<table><tr><th> X </th><th> X </th></tr><tr><td>**X**</td><td> X </td></tr> <tr><td>**X**</td><td> X </td></tr> </table> |
+
+|  X  | 
+| :-: |
+|<table><tr><th> X </th><th> X </th></tr><tr><td>**X**</td><td> X </td></tr> <tr><td>**X**</td><td> X </td></tr> </table> |
 
 #
 
@@ -75,20 +123,68 @@ specs
 (includes [***Passive GPS uFL Antenna w/-2dBi gain***](https://www.adafruit.com/product/2460))  
 <img src="https://cdn-shop.adafruit.com/310x233/3133-05.jpg" width="350"> 
 
+|  X  | 
+| :-: |
+|<table><tr><th> X </th><th> X </th></tr><tr><td>**X**</td><td> X </td></tr> <tr><td>**X**</td><td> X </td></tr> </table> |
+
+|  X  | 
+| :-: |
+|<table><tr><th> X </th><th> X </th></tr><tr><td>**X**</td><td> X </td></tr> <tr><td>**X**</td><td> X </td></tr> </table> |
+
+|  X  | 
+| :-: |
+|<table><tr><th> X </th><th> X </th></tr><tr><td>**X**</td><td> X </td></tr> <tr><td>**X**</td><td> X </td></tr> </table> |
+
 #
 
 [**Adalogger FeatherWing - RTC + SD**](https://www.adafruit.com/product/2922)  
 <img src="https://cdn-shop.adafruit.com/310x233/2922-09.jpg" width="350"> 
+
+|  X  | 
+| :-: |
+|<table><tr><th> X </th><th> X </th></tr><tr><td>**X**</td><td> X </td></tr> <tr><td>**X**</td><td> X </td></tr> </table> |
+
+|  X  | 
+| :-: |
+|<table><tr><th> X </th><th> X </th></tr><tr><td>**X**</td><td> X </td></tr> <tr><td>**X**</td><td> X </td></tr> </table> |
+
+|  X  | 
+| :-: |
+|<table><tr><th> X </th><th> X </th></tr><tr><td>**X**</td><td> X </td></tr> <tr><td>**X**</td><td> X </td></tr> </table> |
 
 #
 
 [**Music Maker FeatherWing w/ Amp**](https://www.adafruit.com/product/3436)  
 <img src="https://cdn-shop.adafruit.com/310x233/3436-02.jpg" width="350"> 
 
+|  X  | 
+| :-: |
+|<table><tr><th> X </th><th> X </th></tr><tr><td>**X**</td><td> X </td></tr> <tr><td>**X**</td><td> X </td></tr> </table> |
+
+|  X  | 
+| :-: |
+|<table><tr><th> X </th><th> X </th></tr><tr><td>**X**</td><td> X </td></tr> <tr><td>**X**</td><td> X </td></tr> </table> |
+
+|  X  | 
+| :-: |
+|<table><tr><th> X </th><th> X </th></tr><tr><td>**X**</td><td> X </td></tr> <tr><td>**X**</td><td> X </td></tr> </table> |
+
 #
 
 [**Adafruit Power Relay FeatherWing**](https://www.adafruit.com/product/3191)  
 <img src="https://cdn-shop.adafruit.com/310x233/3191-07.jpg" width="350"> 
+
+|  X  | 
+| :-: |
+|<table><tr><th> X </th><th> X </th></tr><tr><td>**X**</td><td> X </td></tr> <tr><td>**X**</td><td> X </td></tr> </table> |
+
+|  X  | 
+| :-: |
+|<table><tr><th> X </th><th> X </th></tr><tr><td>**X**</td><td> X </td></tr> <tr><td>**X**</td><td> X </td></tr> </table> |
+
+|  X  | 
+| :-: |
+|<table><tr><th> X </th><th> X </th></tr><tr><td>**X**</td><td> X </td></tr> <tr><td>**X**</td><td> X </td></tr> </table> |
 
 
 -----
@@ -98,15 +194,40 @@ specs
 [**Electret Microphone Amplifier**](https://www.adafruit.com/product/1713)  
 <img src="https://cdn-shop.adafruit.com/310x233/1713-00.jpg" width="350"> 
 
+|  X  | 
+| :-: |
+|<table><tr><th> X </th><th> X </th></tr><tr><td>**X**</td><td> X </td></tr> <tr><td>**X**</td><td> X </td></tr> </table> |
+
+|  X  | 
+| :-: |
+|<table><tr><th> X </th><th> X </th></tr><tr><td>**X**</td><td> X </td></tr> <tr><td>**X**</td><td> X </td></tr> </table> |
+
 #
 
 [**Waterproof DS18B20 Digital temperature sensor**](https://www.adafruit.com/product/381)  
 <img src="https://cdn-shop.adafruit.com/310x233/381-00.jpg" width="350"> 
 
+|  X  | 
+| :-: |
+|<table><tr><th> X </th><th> X </th></tr><tr><td>**X**</td><td> X </td></tr> <tr><td>**X**</td><td> X </td></tr> </table> |
+
+|  X  | 
+| :-: |
+|<table><tr><th> X </th><th> X </th></tr><tr><td>**X**</td><td> X </td></tr> <tr><td>**X**</td><td> X </td></tr> </table> |
+
 #
 
 [**Laser Diode - 5mW 650nm Red**](https://www.adafruit.com/product/1054)  
 <img src="https://cdn-shop.adafruit.com/310x233/1054-02.jpg" width="350"> 
+
+|  X  | 
+| :-: |
+|<table><tr><th> X </th><th> X </th></tr><tr><td>**X**</td><td> X </td></tr> <tr><td>**X**</td><td> X </td></tr> </table> |
+
+|  X  | 
+| :-: |
+|<table><tr><th> X </th><th> X </th></tr><tr><td>**X**</td><td> X </td></tr> <tr><td>**X**</td><td> X </td></tr> </table> |
+
 
 #
 
@@ -114,10 +235,26 @@ specs
 [**Small push-pull solenoid**](https://www.adafruit.com/product/412)  
 <img src="https://cdn-shop.adafruit.com/310x233/412-00.jpg" width="350"> 
 
+|  X  | 
+| :-: |
+|<table><tr><th> X </th><th> X </th></tr><tr><td>**X**</td><td> X </td></tr> <tr><td>**X**</td><td> X </td></tr> </table> |
+
+|  X  | 
+| :-: |
+|<table><tr><th> X </th><th> X </th></tr><tr><td>**X**</td><td> X </td></tr> <tr><td>**X**</td><td> X </td></tr> </table> |
+
 #
 
 [**Liquid Crystal Light Valve**](https://www.adafruit.com/product/3330)  
 <img src="https://media.giphy.com/media/3ov9jG8FffpbrcIiXK/giphy.gif" width="350"> 
+
+|  X  | 
+| :-: |
+|<table><tr><th> X </th><th> X </th></tr><tr><td>**X**</td><td> X </td></tr> <tr><td>**X**</td><td> X </td></tr> </table> |
+
+|  X  | 
+| :-: |
+|<table><tr><th> X </th><th> X </th></tr><tr><td>**X**</td><td> X </td></tr> <tr><td>**X**</td><td> X </td></tr> </table> |
 
 #### basic sensors
 
@@ -125,35 +262,63 @@ specs
 [**Fast Vibration Sensor Switch**](https://www.adafruit.com/product/1766)  
 <img src="https://cdn-shop.adafruit.com/310x233/1766-01.jpg" width="350"> 
 
+|  X  | 
+| :-: |
+|<table><tr><th> X </th><th> X </th></tr><tr><td>**X**</td><td> X </td></tr> <tr><td>**X**</td><td> X </td></tr> </table> |
+
 #
 
 [**DHT22 temperature-humidity sensor**](https://www.adafruit.com/product/385)  
 <img src="https://cdn-shop.adafruit.com/310x233/385-00.jpg" width="350"> 
+
+|  X  | 
+| :-: |
+|<table><tr><th> X </th><th> X </th></tr><tr><td>**X**</td><td> X </td></tr> <tr><td>**X**</td><td> X </td></tr> </table> |
 
 #
 
 [**PIR (motion) sensor**](https://www.adafruit.com/product/189)  
 <img src="https://cdn-shop.adafruit.com/310x233/189-00.jpg" width="350"> 
 
+|  X  | 
+| :-: |
+|<table><tr><th> X </th><th> X </th></tr><tr><td>**X**</td><td> X </td></tr> <tr><td>**X**</td><td> X </td></tr> </table> |
+
 #
 
 [**Micro servo**](https://www.adafruit.com/product/169)  
 <img src="https://cdn-shop.adafruit.com/310x233/169-06.jpg" width="350"> 
+
+|  X  | 
+| :-: |
+|<table><tr><th> X </th><th> X </th></tr><tr><td>**X**</td><td> X </td></tr> <tr><td>**X**</td><td> X </td></tr> </table> |
 
 #
 
 [**Magnetic contact switch**](https://www.adafruit.com/product/375)  
 <img src="https://cdn-shop.adafruit.com/310x233/375-00.jpg" width="350"> 
 
+|  X  | 
+| :-: |
+|<table><tr><th> X </th><th> X </th></tr><tr><td>**X**</td><td> X </td></tr> <tr><td>**X**</td><td> X </td></tr> </table> |
+
 #
 
 [**Piezo Buzzer**](https://www.adafruit.com/product/160)  
 <img src="https://cdn-shop.adafruit.com/310x233/160-01.jpg" width="350"> 
 
+|  X  | 
+| :-: |
+|<table><tr><th> X </th><th> X </th></tr><tr><td>**X**</td><td> X </td></tr> <tr><td>**X**</td><td> X </td></tr> </table> |
+
 #
 
 [**Photo cell (CdS photoresistor)**](https://www.adafruit.com/product/161)  
 <img src="https://cdn-shop.adafruit.com/310x233/161-00.jpg" width="350"> 
+
+|  X  | 
+| :-: |
+|<table><tr><th> X </th><th> X </th></tr><tr><td>**X**</td><td> X </td></tr> <tr><td>**X**</td><td> X </td></tr> </table> |
 
 -----
 
@@ -161,11 +326,15 @@ specs
 
 [**Adafruit Parts Pal**](https://www.adafruit.com/product/2975)  
 <img src="https://cdn-shop.adafruit.com/310x233/2975-00.jpg" width="350"> 
+|  X  | 
+| :-: |
+|<table><tr><th> X </th><th> X </th></tr><tr><td>**X**</td><td> X </td></tr> <tr><td>**X**</td><td> X </td></tr> </table> |
 
 #
 
 [**Lithium Ion Battery - 3.7v 2000mAh**](https://www.adafruit.com/product/2011)  
 <img src="https://cdn-shop.adafruit.com/310x233/2011-03.jpg" width="350"> 
+
 
 #
 
