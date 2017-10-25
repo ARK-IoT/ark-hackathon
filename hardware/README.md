@@ -46,21 +46,34 @@ specs
 
 #
 
-[**Adafruit Feather Huzzah8266**](https://www.adafruit.com/product/3400)  
+[**Adafruit Feather Huzzah8266**](https://www.adafruit.com/product/2821)  
 <img src="https://cdn-shop.adafruit.com/310x233/2821-08.jpg" width="350">  
 
 
-|  X  | 
+|  pinout  | 
 | :-: |
-|<table><tr><th> X </th><th> X </th></tr><tr><td>**X**</td><td> X </td></tr> <tr><td>**X**</td><td> X </td></tr> </table> |
+| [Adafruit: esp8266/pinouts](https://learn.adafruit.com/adafruit-feather-huzzah-esp8266/pinouts) |
+| <img src="https://cdn-learn.adafruit.com/assets/assets/000/046/249/large1024/adafruit_products_Huzzah_ESP8266_Pinout_v1.2-1.png" width="400"> |
 
-|  X  | 
-| :-: |
-|<table><tr><th> X </th><th> X </th></tr><tr><td>**X**</td><td> X </td></tr> <tr><td>**X**</td><td> X </td></tr> </table> |
 
-|  X  | 
+
+|  guides  | 
 | :-: |
-|<table><tr><th> X </th><th> X </th></tr><tr><td>**X**</td><td> X </td></tr> <tr><td>**X**</td><td> X </td></tr> </table> |
+|<table><tr><th> resource </th><th> url </th></tr> <tr><td>**Adafruit Feather Huzzah ESP8266: Overview**</td><td>https://learn.adafruit.com/adafruit-feather-huzzah-esp8266/overview</td></tr> <tr><td>**How To: Up and Running with Adafruit HUZZAH Feather ESP8266**</td><td>http://imaginen4tion.blogspot.com/2015/12/how-to-up-and-running-with-adafruit.html</td></tr> <tr><td>**espressif.com: ESP8266 SDK's and Demos**</td><td>http://espressif.com/en/support/download/sdks-demos</td></tr> </table> |
+
+
+
+|  libraries  | 
+| :-: |
+|<table><tr><th> </th><th></th></tr> <tr><td>**Node MCU for ESP8266**</td><td>http://nodemcu.com/index_en.html</td></tr> <tr><td>**github: Espressif ESP8266 Arduino Library**</td><td>https://github.com/esp8266/Arduino</td></tr> <tr><td>**github: pulkin/ESP8266 Injection Examples**</td><td>https://github.com/pulkin/esp8266-injection-example</td></tr> <tr><td>**github: Adafruit ESP8266**</td><td>https://github.com/adafruit/Adafruit_ESP8266</td></tr> <tr><td>**github: Espressif/ESP8266 MESH DEMO**</td><td>https://github.com/espressif/ESP8266_MESH_DEMO</td></tr> <tr><td>**github: me-no-dev/ESPAsyncWebServer**</td><td>https://github.com/me-no-dev/ESPAsyncWebServer</td></tr> <tr><td>**github: gmag11/painlessMesh**</td><td>https://github.com/gmag11/painlessMesh</td></tr> <tr><td>**github: sglvladi/meshquitto**</td><td>https://github.com/sglvladi/meshquitto</td></tr> <tr><td>**github: Robotto/ESPnfc**</td><td>https://github.com/Robotto/ESPnfc</td></tr> </table> |
+
+
+
+
+
+
+
+
 
 #
 
