@@ -1,5 +1,7 @@
 # Ark: HackPrinceton | Fall 2017 | MHL Season 18  
 
+<img src="https://github.com/Ark-IoT/ark-hackprinceton/blob/master/docs/img/banner%20%E2%80%94%20IoT.png" width=100%>
+
 #  
 
 ***Ark- Hack Princeton Wiki:***  https://github.com/Ark-IoT/ark-hackprinceton/wiki
