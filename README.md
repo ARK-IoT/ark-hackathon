@@ -5,7 +5,8 @@
 #  
 
 ***Ark- Hack Princeton Wiki:***  https://github.com/Ark-IoT/ark-hackprinceton/wiki
-* guides, libraries, and general resources!  
+* guides, libraries, and general resources! The place to start your journey!
+
 
 #
 
