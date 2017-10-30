@@ -4,8 +4,10 @@
 
 #  
 
-***Ark- Hack Princeton Wiki:***  https://github.com/Ark-IoT/ark-hackprinceton/wiki
-* guides, libraries, and general resources! The place to start your journey!
+## Ark- Hack Princeton Wiki [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+Blockchain and IoT are a marriage made in heaven. Blockchain can enable and augment a variety of application scenarios and usecases for the IoT. No longer are such possibilities too futuristic. Step into the world of IoT with ARK Blockchain. 
+
+* [**Guides, libraries, and general resources! The place to start your journey into unknown !!!**](https://github.com/Ark-IoT/ark-hackprinceton/wiki)
 
 
 #
