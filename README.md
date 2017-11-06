@@ -8,7 +8,7 @@
 Blockchain and IoT are a marriage made in heaven. Blockchain can enable and augment a variety of application scenarios and usecases for the IoT. No longer are such possibilities too futuristic. Step into the world of IoT with ARK Blockchain. 
 
 |[<img src="http://askatechteacher.com/wp-content/uploads/2014/04/kozzi-Your_Journey_Starts_Here_Concept-1813x1158.jpg" width="350">](https://github.com/Ark-IoT/ark-hackprinceton/wiki) |
-[**Guides, libraries, and general resources! The place to start your journey into unknown !!!**](https://github.com/Ark-IoT/ark-hackprinceton/wiki)|
+[**To start coding, hacking and cracking IoT with ARK Blockchain click HERE!!!**](https://github.com/Ark-IoT/ark-hackprinceton/wiki)|
 | :---: | :---: |
 
 #
