@@ -1,4 +1,4 @@
-# Ark: HACKATHON's resources 
+# Ark: IoT hackathon resources 
 
 <img src="https://github.com/Ark-IoT/ark-hackathon/blob/master/docs/img/banner%20%E2%80%94%20IoT.png" width=100%>
 
