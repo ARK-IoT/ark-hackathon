@@ -16,7 +16,7 @@ Blockchain and IoT are a marriage made in heaven. Blockchain can enable and augm
 
 | [***hackcambridge.com***](https://hackcambridge.com/)|[***hackprinceton.com***](https://hackprinceton.com/) | [***Ark Ecosystem***](https://ark.io/) | [***Major League Hacking***](https://mlh.io/) | 
 | :---: |:---: | :---: | :---: |
-|  <img src="https://hackcambridge.com/assets/images/logo.656e63b3.svg" width="50">| <img src="https://hackprinceton.com/img/logo.svg" width="50"> | <img src="https://github.com/Jarunik/ark-media/blob/master/logo/ark-logo-flat-black-512.png" width="100"> | <img src="https://hackprinceton.com/img/mlh-trust-badge.svg" width="50"> |
+|  <img src="https://hackcambridge.com/assets/images/logo.656e63b3.svg" width="70">| <img src="https://hackprinceton.com/img/logo.svg" width="50"> | <img src="https://github.com/Jarunik/ark-media/blob/master/logo/ark-logo-flat-black-512.png" width="100"> | <img src="https://hackprinceton.com/img/mlh-trust-badge.svg" width="50"> |
 
 #
 
