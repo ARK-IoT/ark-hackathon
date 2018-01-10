@@ -19,8 +19,8 @@ Blockchain and IoT are a marriage made in heaven. Blockchain can enable and augm
 |  <img src="https://hackcambridge.com/assets/images/logo.656e63b3.svg" width="70">| <img src="https://hackprinceton.com/img/logo.svg" width="50"> | <img src="https://github.com/Jarunik/ark-media/blob/master/logo/ark-logo-flat-black-512.png" width="100"> | <img src="https://hackprinceton.com/img/mlh-trust-badge.svg" width="50"> |
 
 ## Ark News about Hackathons
-- [*HackCambridge - January 2018*](https://blog.ark.io/ark-traveling-to-cambridge-university-hack-cambridge-2018-b59a0f5ba577)
-- [*HackPrinceton - November 2017*](https://blog.ark.io/ark-sponsoring-iot-hackathon-at-princeton-university-425cbbbdd04a)
+- [*ARK Traveling to Cambridge University — Hack Cambridge January 2018*](https://blog.ark.io/ark-traveling-to-cambridge-university-hack-cambridge-2018-b59a0f5ba577)
+- [*ARK Sponsoring IoT Hackathon at Princeton University - Hack Princeton November 2017*](https://blog.ark.io/ark-sponsoring-iot-hackathon-at-princeton-university-425cbbbdd04a)
 
 
 > This is a reference for Ark Hackathon events.  
